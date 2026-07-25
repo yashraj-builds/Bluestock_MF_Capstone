@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"Dataanalysis project1/Dataanalysis project1.sqlproj",
+			"c++/Dataanalysis project1/Dataanalysis project1.sqlproj"
+		]
+	}
+}

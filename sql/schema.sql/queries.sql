@@ -1,6 +1,4 @@
--- ========================================================
 -- BLUESTOCK MUTUAL FUND ANALYTICS - 10 SQL ANALYTICS QUERIES
--- ========================================================
 
 -- Query 1: Top 5 Funds by Highest Return in 3 Years
 SELECT scheme_name, fund_house, category, return_3yr
